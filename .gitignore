@@ -1,2 +1,4 @@
 small-dataset/data/*
 small-dataset/models/*
+small-dataset/bottleneck_features_train.npy
+small-dataset/bottleneck_features_validation.npy
